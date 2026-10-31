@@ -1,0 +1,365 @@
+{
+  "brand": {
+    "name": "تملك",
+    "tagline": "منصة إدارة التأجير المنتهي بالتمليك",
+    "pitch": "كل عقد، كل قسط، كل سيارة — في مكان واحد.",
+    "pitchSub": "جداول تلقائية، تنبيهات قبل الاستحقاق، وتحصيل منظم لأسطولك."
+  },
+  "common": {
+    "currency": "ر.س",
+    "sar": "ريال",
+    "all": "الكل",
+    "search": "بحث",
+    "searchPlaceholder": "ابحث بالاسم، الجوال، الهوية، اللوحة أو رقم العقد",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "close": "إغلاق",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "view": "عرض",
+    "viewAll": "عرض الكل",
+    "download": "تنزيل",
+    "print": "طباعة",
+    "export": "تصدير",
+    "exportExcel": "Excel",
+    "exportPdf": "PDF",
+    "filters": "الفلاتر",
+    "from": "من",
+    "to": "إلى",
+    "loading": "جارٍ التحميل…",
+    "soon": "قريباً",
+    "yes": "نعم",
+    "no": "لا",
+    "days": "{n} يوم",
+    "daysShort": "{n} ي",
+    "day": "يوم",
+    "month": "شهر",
+    "months": "{n} شهراً",
+    "monthsShort": "{n} ش",
+    "today": "اليوم",
+    "tomorrow": "غداً",
+    "yesterday": "أمس",
+    "inDays": "بعد {n} أيام",
+    "inOneDay": "غداً",
+    "inTwoDays": "بعد يومين",
+    "daysAgo": "منذ {n} أيام",
+    "endsInDays": "ينتهي خلال {n} أيام",
+    "endsToday": "ينتهي اليوم",
+    "endsTomorrow": "ينتهي غداً",
+    "of": "من",
+    "total": "الإجمالي",
+    "notes": "ملاحظات",
+    "note": "ملاحظة",
+    "date": "التاريخ",
+    "amount": "المبلغ",
+    "status": "الحالة",
+    "actions": "إجراءات",
+    "more": "المزيد",
+    "none": "—",
+    "demoMode": "وضع العرض",
+    "retry": "إعادة المحاولة",
+    "errorTitle": "تعذّر تحميل البيانات",
+    "errorBody": "حدث خطأ غير متوقع. حاول مرة أخرى.",
+    "notFoundTitle": "الصفحة غير موجودة",
+    "notFoundBody": "ربما تم نقل الصفحة أو أن الرابط غير صحيح.",
+    "forbiddenTitle": "لا تملك صلاحية الوصول",
+    "forbiddenBody": "هذه الصفحة غير متاحة لدورك الحالي.",
+    "goHome": "العودة للرئيسية",
+    "call": "اتصال",
+    "whatsapp": "واتساب",
+    "copy": "نسخ",
+    "copied": "تم النسخ",
+    "required": "مطلوب",
+    "optional": "اختياري",
+    "estimated": "تقديري",
+    "selected": "محدد",
+    "select": "اختيار",
+    "change": "تغيير",
+    "open": "فتح",
+    "resetDemo": "إعادة ضبط بيانات العرض",
+    "resetDemoDone": "تمت إعادة البيانات للحالة الأصلية",
+    "hijri": "هـ",
+    "perMonth": "شهرياً",
+    "count": "{n}",
+    "km": "كم",
+    "percent": "{n}%",
+    "remainingOf": "متبقٍ من {total}",
+    "results": "{n} نتيجة",
+    "noResults": "لا توجد نتائج"
+  },
+  "roles": {
+    "admin": "الأدمن",
+    "sales": "المبيعات",
+    "accountant": "الحسابات",
+    "procurement": "المشتريات",
+    "customer": "العميل"
+  },
+  "rolesLong": {
+    "admin": "مدير النظام",
+    "sales": "مسؤول المبيعات",
+    "accountant": "مسؤول الحسابات",
+    "procurement": "مسؤول المشتريات",
+    "customer": "بوابة العميل"
+  },
+  "nav": {
+    "dashboard": "الرئيسية",
+    "contracts": "العقود",
+    "customers": "العملاء",
+    "vehicles": "السيارات",
+    "payments": "المدفوعات",
+    "collections": "التحصيل",
+    "notifications": "الإشعارات",
+    "reports": "التقارير",
+    "accounts": "الحسابات",
+    "audit": "سجل التدقيق",
+    "settings": "الإعدادات",
+    "collapse": "طي القائمة",
+    "expand": "توسيع القائمة",
+    "more": "المزيد",
+    "menu": "القائمة"
+  },
+  "topbar": {
+    "search": "بحث سريع…",
+    "theme": "الوضع الليلي",
+    "light": "فاتح",
+    "dark": "داكن",
+    "system": "حسب الجهاز",
+    "profile": "الملف",
+    "logout": "تسجيل الخروج",
+    "notifications": "الإشعارات",
+    "unread": "{n} غير مقروء",
+    "markAllRead": "تحديد الكل كمقروء",
+    "noNotifications": "لا توجد إشعارات جديدة",
+    "openCenter": "مركز الإشعارات"
+  },
+  "fab": {
+    "newContract": "عقد جديد",
+    "recordPayment": "تسجيل دفعة",
+    "addVehicle": "إضافة سيارة"
+  },
+  "roleSwitcher": {
+    "title": "تبديل الدور",
+    "hint": "للعرض فقط — تنقّل بين الأدوار فوراً",
+    "switched": "تم التبديل إلى {role}"
+  },
+  "palette": {
+    "placeholder": "ابحث عن عميل، لوحة، رقم عقد أو إجراء…",
+    "actions": "إجراءات",
+    "pages": "الصفحات",
+    "customers": "العملاء",
+    "contracts": "العقود",
+    "vehicles": "السيارات",
+    "empty": "لا نتائج مطابقة",
+    "hint": "للبحث السريع"
+  },
+  "auth": {
+    "staffTab": "موظف",
+    "customerTab": "عميل",
+    "welcome": "مرحباً بعودتك",
+    "staffSubtitle": "سجّل الدخول لإدارة العقود والتحصيل",
+    "customerSubtitle": "تابع عقدك وأقساطك من جوالك",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "login": "تسجيل الدخول",
+    "phone": "رقم الجوال",
+    "phonePlaceholder": "05XXXXXXXX",
+    "sendOtp": "إرسال رمز التحقق",
+    "otp": "رمز التحقق",
+    "otpSent": "أرسلنا رمزاً إلى {phone}",
+    "otpHint": "رمز العرض: 1234",
+    "verify": "تحقق ودخول",
+    "changePhone": "تغيير الرقم",
+    "quickLogin": "دخول سريع (للعرض)",
+    "invalidCredentials": "البريد أو كلمة المرور غير صحيحة",
+    "invalidOtp": "رمز التحقق غير صحيح",
+    "unknownPhone": "لا يوجد عميل مسجل بهذا الرقم",
+    "loggedIn": "أهلاً {name}",
+    "statContracts": "عقد نشط",
+    "statCollected": "نسبة التحصيل",
+    "statAlerts": "تنبيه قبل الاستحقاق",
+    "footer": "نسخة عرض تجريبية — جميع البيانات وهمية"
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "أدخل بريداً إلكترونياً صحيحاً",
+    "phone": "أدخل رقم جوال سعودي صحيح يبدأ بـ 05",
+    "nationalId": "رقم الهوية يجب أن يكون 10 أرقام ويبدأ بـ 1 أو 2",
+    "otp": "رمز التحقق من 4 أرقام",
+    "positive": "يجب أن يكون المبلغ أكبر من صفر",
+    "downPaymentNegative": "المقدم لا يمكن أن يكون سالباً",
+    "downPaymentTooHigh": "المقدم يجب أن يكون أقل من سعر السيارة",
+    "monthsOutOfRange": "مدة العقد يجب أن تكون بين 12 و60 شهراً",
+    "installmentTooHigh": "القسط المدخل أعلى من اللازم — القسط الأخير سيصبح صفراً أو أقل",
+    "vehicleNotAvailable": "السيارة غير متاحة للتعاقد",
+    "priceRequired": "سعر السيارة مطلوب",
+    "invalidAmount": "أدخل مبلغاً صحيحاً أكبر من صفر",
+    "exceedsRemaining": "المبلغ أكبر من إجمالي المتبقي على العقد ({max})",
+    "reasonRequired": "سبب العكس إجباري",
+    "minChars": "أدخل {n} أحرف على الأقل",
+    "selectCustomer": "اختر عميلاً للمتابعة",
+    "selectVehicle": "اختر سيارة للمتابعة",
+    "selectContract": "اختر عقداً",
+    "dateRequired": "اختر التاريخ"
+  },
+  "status": {
+    "contract": {
+      "draft": "مسودة",
+      "pending_approval": "بانتظار الاعتماد",
+      "approved": "معتمد",
+      "active": "نشط",
+      "overdue": "متأخر",
+      "paid_off": "مسدد",
+      "owned": "تم التمليك",
+      "terminated": "مفسوخ"
+    },
+    "installment": {
+      "upcoming": "قادم",
+      "due": "مستحق",
+      "partial": "جزئي",
+      "paid": "مسدد",
+      "overdue": "متأخر"
+    },
+    "vehicle": {
+      "in_purchase": "قيد الشراء",
+      "preparing": "تجهيز",
+      "available": "متاحة",
+      "reserved": "محجوزة",
+      "contracted": "متعاقد عليها",
+      "returned": "مستردة",
+      "sold": "مباعة"
+    },
+    "risk": {
+      "low": "مخاطرة منخفضة",
+      "medium": "مخاطرة متوسطة",
+      "high": "مخاطرة عالية"
+    },
+    "document": {
+      "valid": "سارية",
+      "expiring": "تنتهي قريباً",
+      "expired": "منتهية"
+    },
+    "payment": {
+      "active": "مسجلة",
+      "reversed": "معكوسة"
+    }
+  },
+  "enums": {
+    "paymentMethod": {
+      "cash": "نقداً",
+      "bank_transfer": "تحويل بنكي",
+      "mada": "مدى",
+      "sadad": "سداد"
+    },
+    "paymentType": {
+      "down": "مقدم",
+      "installment": "قسط",
+      "settlement": "سداد مبكر"
+    },
+    "expenseType": {
+      "maintenance": "صيانة",
+      "insurance": "تأمين",
+      "registration": "تسجيل واستمارة",
+      "preparation": "تجهيز",
+      "other": "أخرى"
+    },
+    "documentType": {
+      "national_id": "الهوية الوطنية / الإقامة",
+      "license": "رخصة القيادة",
+      "salary_certificate": "تعريف بالراتب",
+      "bank_statement": "كشف حساب بنكي"
+    },
+    "idType": {
+      "citizen": "مواطن",
+      "resident": "مقيم"
+    },
+    "channel": {
+      "call": "اتصال",
+      "whatsapp": "واتساب",
+      "visit": "زيارة",
+      "sms": "رسالة نصية",
+      "note": "ملاحظة"
+    },
+    "severity": {
+      "info": "معلومة",
+      "warning": "تنبيه",
+      "critical": "حرج"
+    },
+    "bucket": {
+      "b1_7": "1–7 أيام",
+      "b8_30": "8–30 يوماً",
+      "b30_plus": "+30 يوماً"
+    },
+    "auditEntity": {
+      "contract": "عقد",
+      "payment": "دفعة",
+      "vehicle": "سيارة",
+      "customer": "عميل",
+      "settings": "إعدادات",
+      "user": "مستخدم"
+    }
+  },
+  "alerts": {
+    "rules": {
+      "INSTALLMENT_DUE_SOON": "قسط مستحق قريباً",
+      "INSTALLMENT_DUE_TODAY": "قسط مستحق اليوم",
+      "INSTALLMENT_OVERDUE": "قسط متأخر",
+      "CONTRACT_ENDING_SOON": "عقد ينتهي قريباً",
+      "DOCUMENT_EXPIRING": "وثيقة تنتهي",
+      "CONTRACT_PENDING_APPROVAL": "عقد بانتظار الاعتماد",
+      "VEHICLE_READY": "سيارة جاهزة"
+    },
+    "rulesHint": {
+      "INSTALLMENT_DUE_SOON": "قبل موعد القسط بعدد الأيام المحدد",
+      "INSTALLMENT_DUE_TODAY": "في يوم استحقاق القسط",
+      "INSTALLMENT_OVERDUE": "بعد تجاوز الاستحقاق (1–7 / 8–30 / +30)",
+      "CONTRACT_ENDING_SOON": "قبل تاريخ نهاية العقد بعدد الأيام المحدد",
+      "DOCUMENT_EXPIRING": "قبل انتهاء وثيقة العميل بعدد الأيام المحدد",
+      "CONTRACT_PENDING_APPROVAL": "عند إنشاء عقد جديد يحتاج اعتماد",
+      "VEHICLE_READY": "عند انتقال سيارة لحالة متاحة (آخر X أيام)"
+    },
+    "dueSoon": {
+      "title": "قسط {customer} مستحق {when}",
+      "body": "القسط رقم {seq} بمبلغ {amount} — عقد {number}",
+      "customerTitle": "قسطك القادم {when}",
+      "customerBody": "القسط رقم {seq} بمبلغ {amount}. شكراً لالتزامك 🌟"
+    },
+    "dueToday": {
+      "title": "قسط {customer} مستحق اليوم",
+      "body": "القسط رقم {seq} بمبلغ {amount} — عقد {number}",
+      "customerTitle": "قسطك مستحق اليوم",
+      "customerBody": "القسط رقم {seq} بمبلغ {amount}. يمكنك السداد عبر التحويل أو سداد."
+    },
+    "overdue": {
+      "title": "متأخرات {customer} — {days} يوماً",
+      "body": "مبلغ متأخر {amount} ({count} قسط) — عقد {number}",
+      "customerTitle": "تذكير لطيف بقسط فائت",
+      "customerBody": "لديك مبلغ {amount} لم يُسدد بعد. نحن هنا للمساعدة إن احتجت ترتيب السداد."
+    },
+    "endingSoon": {
+      "title": "عقد {number} ينتهي {when}",
+      "body": "العميل {customer} — السيارة {vehicle}",
+      "customerTitle": "اقترب موعد تملّك سيارتك 🎉",
+      "customerBody": "ينتهي عقدك {when}. تأكد من سداد المتبقي لإتمام التمليك."
+    },
+    "documentExpiring": {
+      "title": "{document} — {customer} تنتهي {when}",
+      "body": "تاريخ الانتهاء {date}. اطلب نسخة محدثة من العميل.",
+      "customerTitle": "{document} تنتهي قريباً",
+      "customerBody": "تنتهي بتاريخ {date}. ارفع نسخة محدثة من صفحة مستنداتي."
+    },
+    "pendingApproval": {
+      "title": "عقد {number} بانتظار اعتمادك",
+      "body": "{customer} — {vehicle} — {amount}"
+    },
+    "vehicleReady": {
+      "title": "سيارة جاهزة للتعاقد: {vehicle}",
+      "body": "اللوحة {plate} — السعر {amount}"
+    },
+    "criticalToast": "لديك {n} تنبيهات حرجة تحتاج متابعة",
+    "criticalToastAction": "عرض"
+  }
+}

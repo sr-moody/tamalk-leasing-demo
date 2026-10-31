@@ -1,0 +1,1 @@
+The local vehicle manufacturer SVG marks are from [Simple Icons](https://simpleicons.org/) and are distributed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). They are used only to identify vehicle makes and remain trademarks of their respective owners.
